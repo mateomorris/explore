@@ -19,6 +19,7 @@ items:
  - sintaxi/harp
  - netlify/netlify-cms
  - jaspervdj/hakyll
+ - primo-af/primo
  - umijs/umi
  - abelljs/abell
  - withastro/astro
